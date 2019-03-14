@@ -1,2 +1,11 @@
-h1 {color:#ed7000;background:#333;}
+h1,h2,h3 {color:#ed7000;}
+header {background:#333;padding:20px}
+.h1text {color:white; margin-top: 0}
+body {background:grey}
+div {background:white; padding: 20px ; margin-top: 10px;}
+span {color:grey; font-style:italic; }
 
+footer {color:#ed7000; background:#333;  text-align: center;margin-top: 12px;padding:10px }
+.fett {font-weight:800;}
+h1 {margin-bottom: 0;}
+p,h2 {margin-top: 0:}
